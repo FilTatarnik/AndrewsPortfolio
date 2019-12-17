@@ -1,0 +1,10 @@
+#simple-menu {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: nowrap;
+}
+#simple-menu-button {
+  background-color: black;
+  width: 100%;
+  color: white;
+}
